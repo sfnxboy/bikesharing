@@ -7,3 +7,13 @@ There are two primary ways that Tableau connects to the data you provide: throug
 Live data is primarily databases such as MySQL and Microsoft SQL Server. Live data is just what it sounds like: live data. This type of data is updated every time you view the dashboard, since it's possible that the data has changed in your database.
 Extract data is primarily when you use files such as CSV, TXT, or PDF. These files remain unchanged unless you pull a new extract of the data. For example, if you update the file, you would have to update it in Tableau as well.
 For our analysis, we'll import the CSV file, which contains all the data we'll need for this project. Therefore, we'll technically be working with extract data for our project.
+
+### Tableau Formats
+
+In Tableau, there are three primary formats you need to be familiar with: worksheets, dashboards, and stories.
+
+Worksheets are the building blocks of our visualizations from which we are able to create dashboards and stories. A worksheet is made up of a single graph or plot, which we will learn how to create later on. Worksheets are customizable, but require almost no actual code.
+
+You may have seen a visualization dashboard before, whether in Tableau, PowerBI, or a number of other popular tools. In Tableau, dashboards are a collection of worksheets formatted to present data in a way that is easy to read. There are many things you can do with Tableau dashboards, which we'll discuss later.
+
+Tableau stories are simply Tableau dashboards that include narration of what is occuring with the data. We'll dive deeper into stories later, but for now you should know that they are extremely helpful for identifying important analytic points.

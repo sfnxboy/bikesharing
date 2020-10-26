@@ -17,3 +17,13 @@ Worksheets are the building blocks of our visualizations from which we are able 
 You may have seen a visualization dashboard before, whether in Tableau, PowerBI, or a number of other popular tools. In Tableau, dashboards are a collection of worksheets formatted to present data in a way that is easy to read. There are many things you can do with Tableau dashboards, which we'll discuss later.
 
 Tableau stories are simply Tableau dashboards that include narration of what is occuring with the data. We'll dive deeper into stories later, but for now you should know that they are extremely helpful for identifying important analytic points.
+
+When creating Tableau stories, or data visualizations in general, there's a general process that should be followed. You can use this process for most visualizations you'll create.
+
+1. Select your questions. During this step, you'll consider which results you want to share with your audience. What do they want to see? How can we use that information to make their decision making process easier?
+
+2. Execute independent research. You'll need to look at other relevant pieces of information to build a bigger picture. Search other sources to find information that will make your visualization more powerful.
+
+3. Craft your Tableau story. This is when you create your story, primarily from worksheets and other visuals, with descriptions for each of them.
+
+4. Create a written analysis. The written analysis is intended to provide additional insight into what we're trying to convey to our audience. This is a good place to add extra detail so that everyone can get on the same page.

@@ -12,11 +12,8 @@ For our analysis, we'll import the CSV file, which contains all the data we'll n
 
 In Tableau, there are three primary formats you need to be familiar with: worksheets, dashboards, and stories.
 
-Worksheets are the building blocks of our visualizations from which we are able to create dashboards and stories. A worksheet is made up of a single graph or plot, which we will learn how to create later on. Worksheets are customizable, but require almost no actual code.
+Worksheets are the building blocks of our visualizations from which we are able to create dashboards and stories. A worksheet is made up of a single graph or plot, which we will learn how to create later on. Worksheets are customizable, but require almost no actual code. You may have seen a visualization dashboard before, whether in Tableau, PowerBI, or a number of other popular tools. In Tableau, dashboards are a collection of worksheets formatted to present data in a way that is easy to read. Tableau stories are simply Tableau dashboards that include narration of what is occuring with the data. Dashboards are intended as a way to view data side by side. Stories also allow us to view different data simultaneously, but their main purpose is to tell a story, share a point of view, or convince an audience to take a particular stance.Stories do this by sequencing visualizations to help the audience understand the bigger picture. In our case, we want to create a story that explains why you think, given the data, that starting a bike sharing company in Des Moines is a good idea. For this use data from worksheets with additional elements that provide more context. These additional elements could be boxes, text, arrows, and more.
 
-You may have seen a visualization dashboard before, whether in Tableau, PowerBI, or a number of other popular tools. In Tableau, dashboards are a collection of worksheets formatted to present data in a way that is easy to read. There are many things you can do with Tableau dashboards, which we'll discuss later.
-
-Tableau stories are simply Tableau dashboards that include narration of what is occuring with the data. We'll dive deeper into stories later, but for now you should know that they are extremely helpful for identifying important analytic points.
 
 When creating Tableau stories, or data visualizations in general, there's a general process that should be followed. You can use this process for most visualizations you'll create.
 
